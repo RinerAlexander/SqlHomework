@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-.py
+password.py
 /keys
 
 # C extensions
